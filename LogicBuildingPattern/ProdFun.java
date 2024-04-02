@@ -16,7 +16,7 @@ public class ProdFun {
         int b=sc.nextInt();
 
         
-        System.out.println(prod(a,b));
+        System.out.println("product is: "+prod(a,b));
     }
     
 }
